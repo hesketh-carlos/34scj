@@ -1,5 +1,0 @@
-primeiro arq
-aaa
-LINHA com erro <<<<<<<<<
-
-
