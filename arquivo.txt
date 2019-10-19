@@ -1,3 +1,5 @@
 alterando arquivo.txt
 realizacao do merge em sequencia
 
+master tem essa linha
+
