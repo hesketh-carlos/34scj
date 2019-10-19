@@ -1,1 +1,1 @@
-shutdown -s -t 300
+shutdown -s -t 3000
